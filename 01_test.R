@@ -23,7 +23,7 @@ c <- 0.1      # exponential decay rate
 d <- 1.0      # vertical offset
 
 # x values ---------------------------------------------------------------------
-xmin <- 0
+xmin <- 1
 xmax <- 20
 x <- seq(from = xmin, to = xmax, by = 0.1)
 
